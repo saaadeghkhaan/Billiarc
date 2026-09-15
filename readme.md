@@ -25,21 +25,25 @@
 4. Internet Use
 
    -- No internet connection is required to play the game.
+   
    -- No user data is transmitted to us or any third party.
+   
    -- We do not maintain logs or profiles of your network activity.
+   
 
-5. Third-Party Services
+6. Third-Party Services
 
    BilliArc does not integrate any third-party analytics, ad networks, or SDKs.
   
 
 
-6. Children’s Privacy
+7. Children’s Privacy
 
    BilliArc is safe for all ages.
+   
    Since no data is collected or shared, it complies with COPPA and other child privacy laws by design.
 
 
-8. Policy Updates
+9. Policy Updates
 
    If we ever introduce features that involve data collection (such as accounts, leaderboards, or social sharing), this Privacy Policy will be updated accordingly and users will be notified within the app.
