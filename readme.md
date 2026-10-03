@@ -1,49 +1,35 @@
 # Privacy Policy for BilliArc
 
+## 1. Overview
 
+BilliArc is a 2D game representing a new variant of billiards.
 
-1. Overview
+To use all features of the app, players must complete a one-time sign-in using their email address.
 
-   BilliArc is a 2D game representing a new variant of Billiard.
+## 2. Information We Collect
 
-   Although an internet connection is required to upgrade the app, we do not collect, store, or share any personal information from users.
+We collect and store players’ email addresses to associate their accounts with their scores and track the number of earned or purchased coins.
 
-3. Information We Do Not Collect
+We do not access your camera, microphone, contacts, or location data.
 
+## 3. Internet Use
 
-   We do not collect or store any personal data (such as names, emails, or identifiers).
+An internet connection is required to access online features, sign in, and update player scores and coin records.
 
-   We do not track user activity or behavior.
+Email addresses, scores, and coin records are transmitted to and stored on our servers.
 
-   We do not use cookies, analytics, or advertising SDKs.
+## 4. Third-Party Services
 
-   We do not access your camera, microphone, contacts, or location data.
+Coin purchases are processed through Stripe and are subject to Stripe’s privacy policy:
 
-   All gameplay actions and guesses happen on your device only.
+https://stripe.com/privacy
 
+BilliArc does not integrate third-party analytics or advertising SDKs.
 
-4. Internet Use
+## 5. Children’s Privacy
 
-   -- No internet connection is required to play the game.
-   
-   -- No user data is transmitted to us or any third party.
-   
-   -- We do not maintain logs or profiles of your network activity.
-   
+BilliArc’s gameplay is suitable for all ages.
 
-6. Third-Party Services
+## 6. Policy Updates
 
-   BilliArc does not integrate any third-party analytics, ad networks, or SDKs.
-  
-
-
-7. Children’s Privacy
-
-   BilliArc is safe for all ages.
-   
-   Since no data is collected or shared, it complies with COPPA and other child privacy laws by design.
-
-
-9. Policy Updates
-
-   If we ever introduce features that involve data collection (such as accounts, leaderboards, or social sharing), this Privacy Policy will be updated accordingly and users will be notified within the app.
+If we introduce additional features that involve data collection, this Privacy Policy will be updated accordingly, and users will be notified within the app.
